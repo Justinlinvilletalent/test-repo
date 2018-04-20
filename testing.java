@@ -1,1 +1,5 @@
 //testing
+
+class Test {
+
+}
